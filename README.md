@@ -2,6 +2,16 @@
 
 this is a video dowloader writing using node.js
 
+## How to use guide
+
+first clone the repository
+
+     git clone https://github.com/TREPALAN/Youtube-Video-Dowloader.git
+
+then cd the folder
+
+         cd Youtube-Video-Dowloader
+
 To use it first you have to download the dependencies run the comand on your terminal. Node js is required
 
      npm i
