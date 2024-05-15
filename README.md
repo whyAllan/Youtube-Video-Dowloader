@@ -1,6 +1,6 @@
 # Youtube video dowloader
 
-this is a video dowloader writed as node.js aplication
+it is a video dowloader writed as a node.js aplication
 
 ## How to use guide
 
