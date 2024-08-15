@@ -20,4 +20,4 @@ then to dowload a video run npm start + url + output file name or path(optional)
 
 ex:
 
-    npm start https://www.youtube.com/watch?v=dQw4w9WgXcQ outputFileNae
+    npm start https://www.youtube.com/watch?v=dQw4w9WgXcQ outputFilePath/outputFileName
